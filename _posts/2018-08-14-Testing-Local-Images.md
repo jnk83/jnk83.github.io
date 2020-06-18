@@ -1,34 +1,19 @@
 ---
 layout: post
-title: Zach's Test Post
+title: Wednesday, June 8, 2020
 ---
 
-This is a test post. 
+Data Science Boot Camp has fortuitously concluded but will be missed - a great yet truly challenging three months
 
-To make a post, you must follow the naming convention shown for this file,
-with the data as the first part of the file name, seperated by dashes. Then
-the name of the post as you want it to be stored, with spaces as dashes.
-Finally, you must also keep the 
+-----
 
-```
----
-layout: post
-title: Zach's Test Post
----
-```
+It is with a heavy heart but also a relieved one to be wrapping up the Metis Boot Camp.  I don't think I've ever had so many extended periods of prolonged consciousness in my entire life.  I've certainly lost a few years of life down the road, but that's future me's problem.
 
-Part in the post to tell the page how to title your post and how to render it.
+My Final Project utilized a retail transactional dataset, and I used the K-means algorithm to perform a customer segmentation analysis.  The other projects were for the most part supervised models, so it was an interesting change of the pace.  I arrived at four customer segments and really enjoyed interpreting the different clusters, and running the algorithm through multiple cluster sizes.
 
-Below are some examples of loading images, making links, and doing other
-markdown-y things.
+Marketing analytics is one of my favorite areas of applied data science, and I hope to pursue additional projects like this one in the near future.
 
+To everyone out there, I hope you are healthy and safe.
 
-[This is a link](http://thisismetis.com)
-
-![Image test]({{ site.url }}/images/AlanLeeShireGandalf.JPG)
-
-### Other things
-* Like
-* lists
-* and 
-* stuff
+***Wishing everyone the best,***
+***Josh***
